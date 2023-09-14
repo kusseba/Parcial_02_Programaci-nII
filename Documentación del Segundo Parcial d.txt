@@ -1,0 +1,11 @@
+Documentación del Segundo Parcial de Programación II
+
+El desarrollo del segundo parcial durante la hora de programación fue una relativamente complicado por el poco tiempo para terminar el desarrollo de todos los puntos, siendo está la principal razón por la que pude desarrollor completamente todos los puntos.
+
+Punto 1: Este fue un punto sencillo, pero a la vez complicado, pues recurri a la documentación anterior realizar los cambios necesarios para terminar completar lo exigido por el punto. 
+
+Punto 3: Por parecerme más fácil comence a hacer el punto tres antes que el dos, pero luego de un poco investigación (que me costo la mayor parte de la hora) me di cuenta de mi error.
+
+El principal problema detras de esto fue el que tuvo que organizar correctamente los get() que componen las diferentes funciones para culcular los turnos y su posicionamiento.
+
+Punto 2: Este fue un punto que me resulto mucho más fácil de realizar, por que fui capaz de usar el punto tres para terminar el desarrollo de sus componentes, pues se pedían casi las mismas cosas para completarlo.
